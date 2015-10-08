@@ -1,0 +1,2 @@
+# NewSiteApp
+Developing news app
